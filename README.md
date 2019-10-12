@@ -1,9 +1,9 @@
 # bamazon
 My fake Amazon app for Post Production equipment.
 
-Please insert your pw on line 10 of customer.js. I have the root as a placeholder.
+Please insert your pw on line 10 of customer.js. I have the word root as a placeholder.
 
-use ID when selecting the item you'd like to purchase.
+use ID when selecting the item you'd like to purchase. You will then be prompted for quantity.
 
 Once Product ID and quantity have been selected & the item is in stock bamazon will provide the following information:
 
